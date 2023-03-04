@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,bookstagram.com, force-remote-dns
 DOMAIN-SUFFIX,carstagram.com, force-remote-dns
 DOMAIN-SUFFIX,cdninstagram.com, force-remote-dns
 DOMAIN-SUFFIX,chickstagram.com, force-remote-dns
-DOMAIN-SUFFIX,ig.me
+DOMAIN-SUFFIX,ig.me, force-remote-dns
 DOMAIN-SUFFIX,igcdn.com, force-remote-dns
 DOMAIN-SUFFIX,igsonar.com, force-remote-dns
 DOMAIN-SUFFIX,igtv.com, force-remote-dns
