@@ -490,7 +490,7 @@ DOMAIN-SUFFIX,谷歌.com
 DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,adgoogle.net
 DOMAIN-SUFFIX,admeld.com
-DOMAIN-SUFFIX,androidtv.com,force-remote-dns
+DOMAIN-SUFFIX,androidtv.com, force-remote-dns
 DOMAIN-SUFFIX,angulardart.org
 DOMAIN-SUFFIX,api.ai
 DOMAIN-SUFFIX,apigee.com
@@ -604,8 +604,8 @@ DOMAIN-SUFFIX,google.net
 DOMAIN-SUFFIX,google.org
 DOMAIN-SUFFIX,google.ventures
 DOMAIN-SUFFIX,googleacquisitionmigration.com
-DOMAIN-SUFFIX,googleapis.cn,force-remote-dns
-DOMAIN-SUFFIX,googleapis.com,force-remote-dns
+DOMAIN-SUFFIX,googleapis.cn, force-remote-dns
+DOMAIN-SUFFIX,googleapis.com, force-remote-dns
 DOMAIN-SUFFIX,googleapps.com
 DOMAIN-SUFFIX,googlearth.com
 DOMAIN-SUFFIX,googleblog.com
