@@ -1,75 +1,75 @@
 # Generated from https://github.com/v2fly/domain-list-community/tree/master/data/instagram
 
 # Behavior: domain
-DOMAIN-SUFFIX,achat-followers-instagram.com
-DOMAIN-SUFFIX,acheter-followers-instagram.com
-DOMAIN-SUFFIX,acheterdesfollowersinstagram.com
-DOMAIN-SUFFIX,acheterfollowersinstagram.com
-DOMAIN-SUFFIX,bookstagram.com
-DOMAIN-SUFFIX,carstagram.com
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,chickstagram.com
+DOMAIN-SUFFIX,achat-followers-instagram.com, force-remote-dns
+DOMAIN-SUFFIX,acheter-followers-instagram.com, force-remote-dns
+DOMAIN-SUFFIX,acheterdesfollowersinstagram.com, force-remote-dns
+DOMAIN-SUFFIX,acheterfollowersinstagram.com, force-remote-dns
+DOMAIN-SUFFIX,bookstagram.com, force-remote-dns
+DOMAIN-SUFFIX,carstagram.com, force-remote-dns
+DOMAIN-SUFFIX,cdninstagram.com, force-remote-dns
+DOMAIN-SUFFIX,chickstagram.com, force-remote-dns
 DOMAIN-SUFFIX,ig.me
-DOMAIN-SUFFIX,igcdn.com
-DOMAIN-SUFFIX,igsonar.com
-DOMAIN-SUFFIX,igtv.com
-DOMAIN-SUFFIX,imstagram.com
-DOMAIN-SUFFIX,imtagram.com
-DOMAIN-SUFFIX,instaadder.com
-DOMAIN-SUFFIX,instachecker.com
-DOMAIN-SUFFIX,instafallow.com
-DOMAIN-SUFFIX,instafollower.com
-DOMAIN-SUFFIX,instagainer.com
-DOMAIN-SUFFIX,instagda.com
-DOMAIN-SUFFIX,instagify.com
-DOMAIN-SUFFIX,instagmania.com
-DOMAIN-SUFFIX,instagor.com
-DOMAIN-SUFFIX,instagram-brand.com
-DOMAIN-SUFFIX,instagram-engineering.com
-DOMAIN-SUFFIX,instagram-help.com
-DOMAIN-SUFFIX,instagram-press.com
-DOMAIN-SUFFIX,instagram-press.net
-DOMAIN-SUFFIX,instagram.com
-DOMAIN-SUFFIX,instagramci.com
-DOMAIN-SUFFIX,instagramcn.com
-DOMAIN-SUFFIX,instagramdi.com
-DOMAIN-SUFFIX,instagramhashtags.net
-DOMAIN-SUFFIX,instagramhilecim.com
+DOMAIN-SUFFIX,igcdn.com, force-remote-dns
+DOMAIN-SUFFIX,igsonar.com, force-remote-dns
+DOMAIN-SUFFIX,igtv.com, force-remote-dns
+DOMAIN-SUFFIX,imstagram.com, force-remote-dns
+DOMAIN-SUFFIX,imtagram.com, force-remote-dns
+DOMAIN-SUFFIX,instaadder.com, force-remote-dns
+DOMAIN-SUFFIX,instachecker.com, force-remote-dns
+DOMAIN-SUFFIX,instafallow.com, force-remote-dns
+DOMAIN-SUFFIX,instafollower.com, force-remote-dns
+DOMAIN-SUFFIX,instagainer.com, force-remote-dns
+DOMAIN-SUFFIX,instagda.com, force-remote-dns
+DOMAIN-SUFFIX,instagify.com, force-remote-dns
+DOMAIN-SUFFIX,instagmania.com, force-remote-dns
+DOMAIN-SUFFIX,instagor.com, force-remote-dns
+DOMAIN-SUFFIX,instagram-brand.com, force-remote-dns
+DOMAIN-SUFFIX,instagram-engineering.com, force-remote-dns
+DOMAIN-SUFFIX,instagram-help.com, force-remote-dns
+DOMAIN-SUFFIX,instagram-press.com, force-remote-dns
+DOMAIN-SUFFIX,instagram-press.net, force-remote-dns
+DOMAIN-SUFFIX,instagram.com, force-remote-dns
+DOMAIN-SUFFIX,instagramci.com, force-remote-dns
+DOMAIN-SUFFIX,instagramcn.com, force-remote-dns
+DOMAIN-SUFFIX,instagramdi.com, force-remote-dns
+DOMAIN-SUFFIX,instagramhashtags.net, force-remote-dns
+DOMAIN-SUFFIX,instagramhilecim.com, force-remote-dns
 DOMAIN-SUFFIX,instagramhilesi.org
-DOMAIN-SUFFIX,instagramium.com
-DOMAIN-SUFFIX,instagramizlenme.com
-DOMAIN-SUFFIX,instagramkusu.com
-DOMAIN-SUFFIX,instagramlogin.com
-DOMAIN-SUFFIX,instagramm.com
-DOMAIN-SUFFIX,instagramn.com
-DOMAIN-SUFFIX,instagrampartners.com
-DOMAIN-SUFFIX,instagramphoto.com
-DOMAIN-SUFFIX,instagramq.com
-DOMAIN-SUFFIX,instagramsepeti.com
-DOMAIN-SUFFIX,instagramtakipcisatinal.net
-DOMAIN-SUFFIX,instagramtakiphilesi.com
-DOMAIN-SUFFIX,instagramtips.com
-DOMAIN-SUFFIX,instagramtr.com
-DOMAIN-SUFFIX,instagran.com
-DOMAIN-SUFFIX,instagranm.com
-DOMAIN-SUFFIX,instagrem.com
-DOMAIN-SUFFIX,instagrm.com
-DOMAIN-SUFFIX,instagtram.com
-DOMAIN-SUFFIX,instagy.com
-DOMAIN-SUFFIX,instamgram.com
-DOMAIN-SUFFIX,instangram.com
-DOMAIN-SUFFIX,instanttelegram.com
-DOMAIN-SUFFIX,instaplayer.net
-DOMAIN-SUFFIX,instastyle.tv
-DOMAIN-SUFFIX,instgram.com
-DOMAIN-SUFFIX,intagram.com
-DOMAIN-SUFFIX,intagrm.com
-DOMAIN-SUFFIX,intgram.com
-DOMAIN-SUFFIX,kingstagram.com
-DOMAIN-SUFFIX,lnstagram-help.com
-DOMAIN-SUFFIX,oninstagram.com
-DOMAIN-SUFFIX,online-instagram.com
-DOMAIN-SUFFIX,onlineinstagram.com
-DOMAIN-SUFFIX,theinstagramhack.com
-DOMAIN-SUFFIX,web-instagram.net
-DOMAIN-SUFFIX,wwwinstagram.com
+DOMAIN-SUFFIX,instagramium.com, force-remote-dns
+DOMAIN-SUFFIX,instagramizlenme.com, force-remote-dns
+DOMAIN-SUFFIX,instagramkusu.com, force-remote-dns
+DOMAIN-SUFFIX,instagramlogin.com, force-remote-dns
+DOMAIN-SUFFIX,instagramm.com, force-remote-dns
+DOMAIN-SUFFIX,instagramn.com, force-remote-dns
+DOMAIN-SUFFIX,instagrampartners.com, force-remote-dns
+DOMAIN-SUFFIX,instagramphoto.com, force-remote-dns
+DOMAIN-SUFFIX,instagramq.com, force-remote-dns
+DOMAIN-SUFFIX,instagramsepeti.com, force-remote-dns
+DOMAIN-SUFFIX,instagramtakipcisatinal.net, force-remote-dns
+DOMAIN-SUFFIX,instagramtakiphilesi.com, force-remote-dns
+DOMAIN-SUFFIX,instagramtips.com, force-remote-dns
+DOMAIN-SUFFIX,instagramtr.com, force-remote-dns
+DOMAIN-SUFFIX,instagran.com, force-remote-dns
+DOMAIN-SUFFIX,instagranm.com, force-remote-dns
+DOMAIN-SUFFIX,instagrem.com, force-remote-dns
+DOMAIN-SUFFIX,instagrm.com, force-remote-dns
+DOMAIN-SUFFIX,instagtram.com, force-remote-dns
+DOMAIN-SUFFIX,instagy.com, force-remote-dns
+DOMAIN-SUFFIX,instamgram.com, force-remote-dns
+DOMAIN-SUFFIX,instangram.com, force-remote-dns
+DOMAIN-SUFFIX,instanttelegram.com, force-remote-dns
+DOMAIN-SUFFIX,instaplayer.net, force-remote-dns
+DOMAIN-SUFFIX,instastyle.tv, force-remote-dns
+DOMAIN-SUFFIX,instgram.com, force-remote-dns
+DOMAIN-SUFFIX,intagram.com, force-remote-dns
+DOMAIN-SUFFIX,intagrm.com, force-remote-dns
+DOMAIN-SUFFIX,intgram.com, force-remote-dns
+DOMAIN-SUFFIX,kingstagram.com, force-remote-dns
+DOMAIN-SUFFIX,lnstagram-help.com, force-remote-dns
+DOMAIN-SUFFIX,oninstagram.com, force-remote-dns
+DOMAIN-SUFFIX,online-instagram.com, force-remote-dns
+DOMAIN-SUFFIX,onlineinstagram.com, force-remote-dns
+DOMAIN-SUFFIX,theinstagramhack.com, force-remote-dns
+DOMAIN-SUFFIX,web-instagram.net, force-remote-dns
+DOMAIN-SUFFIX,wwwinstagram.com, force-remote-dns
