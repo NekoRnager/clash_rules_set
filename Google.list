@@ -10,8 +10,8 @@ DOMAIN-SUFFIX,ampproject.com
 DOMAIN-SUFFIX,ampproject.net
 DOMAIN-SUFFIX,ampproject.org
 ## >> Android
-DOMAIN-SUFFIX,android.com,force-remote-dns
-DOMAIN-SUFFIX,androidify.com,force-remote-dns
+DOMAIN-SUFFIX,android.com, force-remote-dns
+DOMAIN-SUFFIX,androidify.com, force-remote-dns
 ## >> Blogspot
 DOMAIN-SUFFIX,blogblog.com
 DOMAIN-SUFFIX,blogger.com
@@ -179,7 +179,7 @@ DOMAIN-SUFFIX,scholar.google.ca
 DOMAIN-SUFFIX,scholar.google.cat
 DOMAIN-SUFFIX,scholar.google.ch
 DOMAIN-SUFFIX,scholar.google.cl
-DOMAIN-SUFFIX,scholar.google.cn,force-remote-dns
+DOMAIN-SUFFIX,scholar.google.cn, force-remote-dns
 DOMAIN-SUFFIX,scholar.google.co.cr
 DOMAIN-SUFFIX,scholar.google.co.id
 DOMAIN-SUFFIX,scholar.google.co.il
@@ -191,7 +191,7 @@ DOMAIN-SUFFIX,scholar.google.co.th
 DOMAIN-SUFFIX,scholar.google.co.uk
 DOMAIN-SUFFIX,scholar.google.co.ve
 DOMAIN-SUFFIX,scholar.google.co.za
-DOMAIN-SUFFIX,scholar.google.com,force-remote-dns
+DOMAIN-SUFFIX,scholar.google.com, force-remote-dns
 DOMAIN-SUFFIX,scholar.google.com.ar
 DOMAIN-SUFFIX,scholar.google.com.au
 DOMAIN-SUFFIX,scholar.google.com.bo
@@ -313,7 +313,7 @@ DOMAIN-SUFFIX,google.ch
 DOMAIN-SUFFIX,google.ci
 DOMAIN-SUFFIX,google.cl
 DOMAIN-SUFFIX,google.cm
-DOMAIN-SUFFIX,google.cn,force-remote-dns
+DOMAIN-SUFFIX,google.cn, force-remote-dns
 DOMAIN-SUFFIX,google.co.ao
 DOMAIN-SUFFIX,google.co.bw
 DOMAIN-SUFFIX,google.co.ck
@@ -573,7 +573,7 @@ DOMAIN-SUFFIX,foofle.com
 DOMAIN-SUFFIX,froogle.com
 DOMAIN-SUFFIX,fuchsia.dev
 DOMAIN-SUFFIX,g-tun.com
-DOMAIN-SUFFIX,g.cn,force-remote-dns
+DOMAIN-SUFFIX,g.cn, force-remote-dns
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,g.dev
 DOMAIN-SUFFIX,g.page
@@ -585,7 +585,7 @@ DOMAIN-SUFFIX,getmdl.io
 DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,ggoogle.com
 DOMAIN-SUFFIX,gipscorp.com
-DOMAIN-SUFFIX,gkecnapps.cn,force-remote-dns
+DOMAIN-SUFFIX,gkecnapps.cn, force-remote-dns
 DOMAIN-SUFFIX,globaledu.org
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,gmodules.com
@@ -612,7 +612,7 @@ DOMAIN-SUFFIX,googleblog.com
 DOMAIN-SUFFIX,googlebot.com
 DOMAIN-SUFFIX,googlecapital.com
 DOMAIN-SUFFIX,googlecert.net
-DOMAIN-SUFFIX,googlecnapps.cn,force-remote-dns
+DOMAIN-SUFFIX,googlecnapps.cn, force-remote-dns
 DOMAIN-SUFFIX,googlecode.com
 DOMAIN-SUFFIX,googlecommerce.com
 DOMAIN-SUFFIX,googlecompare.co.uk
@@ -628,13 +628,13 @@ DOMAIN-SUFFIX,googlemail.com
 DOMAIN-SUFFIX,googlemaps.com
 DOMAIN-SUFFIX,googlepagecreator.com
 DOMAIN-SUFFIX,googlephotos.com
-DOMAIN-SUFFIX,googleplay.com,force-remote-dns
+DOMAIN-SUFFIX,googleplay.com, force-remote-dns
 DOMAIN-SUFFIX,googleplus.com
 DOMAIN-SUFFIX,googlescholar.com
 DOMAIN-SUFFIX,googlesource.com
 DOMAIN-SUFFIX,googlestore.com
 DOMAIN-SUFFIX,googlesverige.com
-DOMAIN-SUFFIX,googleusercontent.com,force-remote-dns
+DOMAIN-SUFFIX,googleusercontent.com, force-remote-dns
 DOMAIN-SUFFIX,googleventures.com
 DOMAIN-SUFFIX,googlr.com
 DOMAIN-SUFFIX,goolge.com
@@ -642,9 +642,9 @@ DOMAIN-SUFFIX,gooogle.com
 DOMAIN-SUFFIX,goοglе.com
 DOMAIN-SUFFIX,gridaware.app
 DOMAIN-SUFFIX,gsrc.io
-DOMAIN-SUFFIX,gstatic.cn,force-remote-dns
+DOMAIN-SUFFIX,gstatic.cn, force-remote-dns
 DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,gstaticcnapps.cn,force-remote-dns
+DOMAIN-SUFFIX,gstaticcnapps.cn, force-remote-dns
 DOMAIN-SUFFIX,gsuite.com
 DOMAIN-SUFFIX,gv.com
 DOMAIN-SUFFIX,gvt0.com
@@ -786,13 +786,13 @@ DOMAIN-SUFFIX,womenwill.in
 DOMAIN-SUFFIX,womenwill.mx
 DOMAIN-SUFFIX,x.company
 DOMAIN-SUFFIX,x.team
-DOMAIN-SUFFIX,xn--9kr7l.com,force-remote-dns
-DOMAIN-SUFFIX,xn--9trs65b.com,force-remote-dns
-DOMAIN-SUFFIX,xn--flw351e.com,force-remote-dns
-DOMAIN-SUFFIX,xn--ggle-55da.com,force-remote-dns
-DOMAIN-SUFFIX,xn--gogl-0nd52e.com,force-remote-dns
-DOMAIN-SUFFIX,xn--gogl-1nd42e.com,force-remote-dns
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com,force-remote-dns
-DOMAIN-SUFFIX,xplr.co,force-remote-dns
+DOMAIN-SUFFIX,xn--9kr7l.com, force-remote-dns
+DOMAIN-SUFFIX,xn--9trs65b.com, force-remote-dns
+DOMAIN-SUFFIX,xn--flw351e.com, force-remote-dns
+DOMAIN-SUFFIX,xn--ggle-55da.com, force-remote-dns
+DOMAIN-SUFFIX,xn--gogl-0nd52e.com, force-remote-dns
+DOMAIN-SUFFIX,xn--gogl-1nd42e.com, force-remote-dns
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com, force-remote-dns
+DOMAIN-SUFFIX,xplr.co, force-remote-dns
 DOMAIN-SUFFIX,zukunftswerkstatt.de
 DOMAIN-SUFFIX,zynamics.com
