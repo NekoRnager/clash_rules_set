@@ -5,9 +5,9 @@ PROCESS-NAME,com.google.android.gsf
 PROCESS-NAME,com.google.android.play.games
 PROCESS-NAME,GoogleDriveFS.exe
 ## >> Mobvoi
-DOMAIN-SUFFIX,mobvoi.com
-DOMAIN-SUFFIX,ticwear.com
-DOMAIN-SUFFIX,ute-tech.com.cn
+DOMAIN-SUFFIX,mobvoi.com, force-remote-dns
+DOMAIN-SUFFIX,ticwear.com, force-remote-dns
+DOMAIN-SUFFIX,ute-tech.com.cn, force-remote-dns
 ## >> AMP
 DOMAIN-SUFFIX,amp.dev
 DOMAIN-SUFFIX,ampproject.com
