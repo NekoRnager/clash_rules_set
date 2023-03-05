@@ -7,6 +7,7 @@ PROCESS-NAME,GoogleDriveFS.exe
 ## >> Mobvoi
 DOMAIN-SUFFIX,mobvoi.com
 DOMAIN-SUFFIX,ticwear.com
+DOMAIN-SUFFIX,ute-tech.com.cn
 ## >> AMP
 DOMAIN-SUFFIX,amp.dev
 DOMAIN-SUFFIX,ampproject.com
