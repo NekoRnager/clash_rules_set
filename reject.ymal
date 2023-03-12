@@ -1,0 +1,13 @@
+# Block Google Ads
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,admob.com
+#Others
+DOMAIN-SUFFIX,mixpanel.com
+DOMAIN-SUFFIX,matomo.org
+DOMAIN-SUFFIX,appcenter.ms
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,firebase.io
+DOMAIN-SUFFIX,crashlytics.com
